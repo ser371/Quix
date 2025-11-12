@@ -1,0 +1,514 @@
+2025-11-12 12:29:57 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/",
+  "statusCode": 304,
+  "duration": "4ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:29:57 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui.css",
+  "statusCode": 304,
+  "duration": "3ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:29:57 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-bundle.js",
+  "statusCode": 304,
+  "duration": "2ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:29:57 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-init.js",
+  "statusCode": 304,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:29:57 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-standalone-preset.js",
+  "statusCode": 304,
+  "duration": "9ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:29:57 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/favicon-32x32.png",
+  "statusCode": 304,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:36:05 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/login",
+  "statusCode": 200,
+  "duration": "8ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": "3106"
+}
+2025-11-12 12:36:05 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui.css",
+  "statusCode": 304,
+  "duration": "2ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:36:05 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-init.js",
+  "statusCode": 304,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:36:05 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-bundle.js",
+  "statusCode": 304,
+  "duration": "9ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:36:05 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-standalone-preset.js",
+  "statusCode": 304,
+  "duration": "9ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:36:10 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/login",
+  "statusCode": 404,
+  "duration": "2ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 144
+}
+2025-11-12 12:36:18 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/register",
+  "statusCode": 404,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 147
+}
+2025-11-12 12:44:52 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/",
+  "statusCode": 304,
+  "duration": "7ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:44:52 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-init.js",
+  "statusCode": 200,
+  "duration": "2ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": "21574"
+}
+2025-11-12 12:44:52 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui.css",
+  "statusCode": 304,
+  "duration": "10ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:44:52 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-bundle.js",
+  "statusCode": 304,
+  "duration": "12ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:44:52 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-standalone-preset.js",
+  "statusCode": 304,
+  "duration": "15ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:45:42 [info]: HTTP Request {
+  "method": "POST",
+  "url": "/users/register",
+  "statusCode": 404,
+  "duration": "2ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 154
+}
+2025-11-12 12:47:49 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/",
+  "statusCode": 304,
+  "duration": "6ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:47:49 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui.css",
+  "statusCode": 304,
+  "duration": "3ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:47:49 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-init.js",
+  "statusCode": 200,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": "21844"
+}
+2025-11-12 12:47:49 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-standalone-preset.js",
+  "statusCode": 304,
+  "duration": "7ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:47:49 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-bundle.js",
+  "statusCode": 304,
+  "duration": "8ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:47:50 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/favicon-32x32.png",
+  "statusCode": 304,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:48:23 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/",
+  "statusCode": 304,
+  "duration": "4ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:48:23 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui.css",
+  "statusCode": 304,
+  "duration": "6ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:48:23 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-bundle.js",
+  "statusCode": 304,
+  "duration": "6ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:48:23 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-init.js",
+  "statusCode": 200,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": "26495"
+}
+2025-11-12 12:48:23 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-standalone-preset.js",
+  "statusCode": 304,
+  "duration": "10ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:48:23 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/favicon-32x32.png",
+  "statusCode": 304,
+  "duration": "2ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:49:18 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/",
+  "statusCode": 304,
+  "duration": "4ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:49:18 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-init.js",
+  "statusCode": 200,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": "25932"
+}
+2025-11-12 12:49:18 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui.css",
+  "statusCode": 304,
+  "duration": "11ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:49:18 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-standalone-preset.js",
+  "statusCode": 304,
+  "duration": "6ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:49:18 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-bundle.js",
+  "statusCode": 304,
+  "duration": "8ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:49:18 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/favicon-32x32.png",
+  "statusCode": 304,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:50:16 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/",
+  "statusCode": 304,
+  "duration": "3ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:50:16 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui.css",
+  "statusCode": 304,
+  "duration": "8ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:50:16 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-init.js",
+  "statusCode": 200,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": "26402"
+}
+2025-11-12 12:50:16 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-bundle.js",
+  "statusCode": 304,
+  "duration": "5ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:50:16 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-standalone-preset.js",
+  "statusCode": 304,
+  "duration": "6ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:50:16 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/favicon-32x32.png",
+  "statusCode": 304,
+  "duration": "4ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:50:29 [info]: HTTP Request {
+  "method": "POST",
+  "url": "/users/register",
+  "statusCode": 404,
+  "duration": "3ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 154
+}
+2025-11-12 12:50:31 [info]: HTTP Request {
+  "method": "POST",
+  "url": "/users/register",
+  "statusCode": 404,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 154
+}
+2025-11-12 12:51:00 [info]: HTTP Request {
+  "method": "POST",
+  "url": "/users/register",
+  "statusCode": 404,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 154
+}
+2025-11-12 12:51:32 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui.css",
+  "statusCode": 304,
+  "duration": "3ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+}
+2025-11-12 12:51:32 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/.well-known/appspecific/com.chrome.devtools.json",
+  "statusCode": 404,
+  "duration": "2ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 187
+}
+2025-11-12 12:51:32 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui.css.map",
+  "statusCode": 200,
+  "duration": "7ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 258968
+}
+2025-11-12 12:51:41 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/",
+  "statusCode": 200,
+  "duration": "3ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": "3106"
+}
+2025-11-12 12:51:41 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/.well-known/appspecific/com.chrome.devtools.json",
+  "statusCode": 404,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 187
+}
+2025-11-12 12:51:41 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui.css",
+  "statusCode": 200,
+  "duration": "21ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 155212
+}
+2025-11-12 12:51:41 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-standalone-preset.js",
+  "statusCode": 200,
+  "duration": "14ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 250335
+}
+2025-11-12 12:51:42 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-bundle.js",
+  "statusCode": 200,
+  "duration": "32ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 1510159
+}
+2025-11-12 12:51:42 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui-init.js",
+  "statusCode": 200,
+  "duration": "3ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": "26402"
+}
+2025-11-12 12:51:42 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/swagger-ui.css.map",
+  "statusCode": 200,
+  "duration": "2ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 258968
+}
+2025-11-12 12:51:42 [info]: HTTP Request {
+  "method": "GET",
+  "url": "/api-docs/favicon-32x32.png",
+  "statusCode": 200,
+  "duration": "3ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 628
+}
+2025-11-12 12:51:55 [info]: HTTP Request {
+  "method": "POST",
+  "url": "/users/register",
+  "statusCode": 404,
+  "duration": "0ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 154
+}
+2025-11-12 12:51:57 [info]: HTTP Request {
+  "method": "POST",
+  "url": "/users/register",
+  "statusCode": 404,
+  "duration": "1ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 154
+}
+2025-11-12 13:03:32 [info]: HTTP Request {
+  "method": "POST",
+  "url": "/admin/exams",
+  "statusCode": 404,
+  "duration": "5ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 151
+}
+2025-11-12 13:10:18 [info]: HTTP Request {
+  "method": "POST",
+  "url": "/users/register",
+  "statusCode": 404,
+  "duration": "3ms",
+  "ip": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "contentLength": 154
+}

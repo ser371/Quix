@@ -1,0 +1,35 @@
+# Ignore all files with a .log extension
+*.log
+
+# Ignore a specific file
+secrets.txt
+
+# Ignore a specific directory and its contents
+build/
+node_modules/
+
+# Ignore all files with a .tmp extension in any directory
+**/*.tmp
+
+# Ignore all files in a directory except a specific one
+# First, ignore everything in the 'config' directory
+config/*
+# Then, unignore 'config/important.json'
+!config/important.json
+
+# Ignore files based on their type in a specific directory
+# Ignore all Python compiled files in the 'src' directory
+src/__pycache__/
+src/*.pyc
+
+# Ignore operating system generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore virtual environment directories
+venv/
+.env/
